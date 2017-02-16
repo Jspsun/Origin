@@ -1,7 +1,7 @@
 # Origin
 A small game that I put together in Java
 
-# Screenshots
+## Screenshots
 ![Gif Demo](/img/OriginDemo.gif?raw=true "Demo")
 
 One of my final projects that I did in high school. The game resembles the cell stage of the 2008 PC game [Spore] (https://en.wikipedia.org/wiki/Spore_(2008_video_game))
